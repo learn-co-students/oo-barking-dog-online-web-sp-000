@@ -3,11 +3,11 @@ require 'pry'
 
 class Dog
 def name=(dog_name)
-    @this_dogs_name = dog_name
+    @the_dogs_name = dog_name
   end
 
   def name
-    @this_dogs_name
+    @the_dogs_name
   end
 
   def bark
