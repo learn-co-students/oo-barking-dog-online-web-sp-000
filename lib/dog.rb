@@ -9,7 +9,7 @@ attr_accessor :name
 
 end
 
-#Wwithout attr_accessor
+# W/O attr_accessor
 
 # class Dog
 #     def name
