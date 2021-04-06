@@ -10,7 +10,7 @@ class Dog
   
   
     
-  def bark = (dog_bark)
+  def bark= (dog_bark)
     bark
   end
   
